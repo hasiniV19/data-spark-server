@@ -10,7 +10,7 @@ Niruthikka \
 Tharsha \
 Hasini
 
-create a folder named data-spark(NO CAPITALS)
+create a folder named data-spark-server(NO CAPITALS)
 open that folder in vs code
 run these commands in the terminal
 
