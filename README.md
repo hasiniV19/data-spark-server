@@ -14,7 +14,7 @@ create a folder named data-spark(NO CAPITALS)
 open that folder in vs code
 run these commands in the terminal
 
-    1. git clone https://github.com/akashTharuka/data-spark.git .(REMEMBER THE DOT otherwise it will create another folder)
+    1. git clone https://github.com/hasiniV19/data-spark-server.git .(REMEMBER THE DOT otherwise it will create another folder)
     2. py -3 -m pip install virtualenv
     3. py -3 -m venv venv
     4. venv\Scripts\activate
